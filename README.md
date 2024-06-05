@@ -22,8 +22,9 @@ The dataset used in this project is the [Credit Card Fraud Detection dataset] fr
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
+git clone https://github.com/kyohmin/CreditCardFraudDetection
+.git
+cd CreditCardFraudDetection
 ```
 
 ## Models
