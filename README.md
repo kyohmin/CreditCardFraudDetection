@@ -49,7 +49,7 @@ Through the evaluation of six different models, I have found out that the "suita
 
 ![download](https://github.com/kyohmin/CreditCardFraudDetection/assets/71572502/67e803b2-891d-4874-a0da-6784c0cbb1b7)
 
-![SC_9 10@2x](https://github.com/kyohmin/CreditCardFraudDetection/assets/71572502/3eccf879-43c5-4f77-b74f-74bb2ee2b44e)
+<img src="https://github.com/kyohmin/CreditCardFraudDetection/assets/71572502/3eccf879-43c5-4f77-b74f-74bb2ee2b44e" alt="drawing" width="400"/>
 
 ## References
 1. Greg Hogg, Credit Card Fraud Detection - Dealing with Imbalanced Datasets in Machine Learning [https://www.youtube.com/watch?v=M_Cu7r9gik4]
