@@ -8,7 +8,7 @@
 4. [Models](#models)
 5. [Evaluation](#evaluation)
 6. [Conclusion](#conclusion)
-7. [References](#References)
+7. [References](#references)
 
 ## Overview
 Meta Code M is an education platform focused on AI and IT in South Korea. Enrolled in "Credit Card Fraud Detection Project - Cohort 8" to...
@@ -18,7 +18,7 @@ Meta Code M is an education platform focused on AI and IT in South Korea. Enroll
 - Make a small project for portfolio.
 
 ## Dataset
-The dataset used in this project is the [Credit Card Fraud Detection dataset] from Kaggle. It contains transactions made by credit cards by European cardholders in September 2013. The dataset contains 31 columns with 28 PCA-transformed features. It has 284,807 transactions, but only 492 of them are frauds, showing a highly imbalanced rate of 0.00173.
+The dataset used in this project is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) from Kaggle. It contains transactions made by credit cards by European cardholders in September 2013. The dataset contains 31 columns with 28 PCA-transformed features. It has 284,807 transactions, but only 492 of them are frauds, showing a highly imbalanced rate of 0.00173.
 
 ## Installation
 ```bash
