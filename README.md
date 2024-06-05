@@ -47,9 +47,9 @@ cd CreditCardFraudDetection
 ## Conclusion
 Through the evaluation of six different models, I have found out that the "suitable" model depends on the criteria and purpose of the project, meaning that the best model can vary according to perspectives. In this project, I set the F1 score as the primary evaluation metric. Among neural networks, weighted neural networks, XGboost, logistic regression, support vector machines, and ensemble voting models, XGBoost and ensemble voting models showed the best performance. Considering the computation cost and insignificant increase in performance, I believe that XGBoost is the best-performing model for detecting fraud in credit card transactions. Below are the evaluation scores of the XGBoost model.
 
-![download](https://github.com/kyohmin/CreditCardFraudDetection/assets/71572502/67e803b2-891d-4874-a0da-6784c0cbb1b7)
+<p align="center"><img src="https://github.com/kyohmin/CreditCardFraudDetection/assets/71572502/67e803b2-891d-4874-a0da-6784c0cbb1b7" alt="drawing" width="500"/></p>
 
-<img src="https://github.com/kyohmin/CreditCardFraudDetection/assets/71572502/3eccf879-43c5-4f77-b74f-74bb2ee2b44e" alt="drawing" width="400"/>
+<p align="center"><img src="https://github.com/kyohmin/CreditCardFraudDetection/assets/71572502/3eccf879-43c5-4f77-b74f-74bb2ee2b44e" alt="drawing" width="400"/></p>
 
 ## References
 1. Greg Hogg, Credit Card Fraud Detection - Dealing with Imbalanced Datasets in Machine Learning [https://www.youtube.com/watch?v=M_Cu7r9gik4]
